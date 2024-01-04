@@ -17,6 +17,11 @@ body{
     margin-bottom: 20px;
 }
 
+.blog-post{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 header{
     background: transparent;
     height: 100%;
@@ -765,8 +770,6 @@ footer{
     }
 
     .second-section{
-        margin-left: 120px;
-        margin-right: 120px;
         display: flex;
         flex-direction: column;
         padding-top: 120px;

@@ -157,7 +157,7 @@
                     if ($s2_description_value) {
                         echo  '<p>'.esc_html($s2_description_value).'</p>';
                     } else {
-                        echo `<p>Wea're yours local Perth plumber and gas-fitting specialists. Together, we're a team of reliable plumbers with a knack for the job. Got a problem at home or at work, need an emergency plumber in Perth? Give us a call, we'll fix it no probs.</p>`;
+                        echo "<p>Wea're yours local Perth plumber and gas-fitting specialists. Together, we're a team of reliable plumbers with a knack for the job. Got a problem at home or at work, need an emergency plumber in Perth? Give us a call, we'll fix it no probs.</p>";
                         }
                 ?>
               <div>
@@ -214,7 +214,7 @@
                     if ($s4_subtitle_value) {
                         echo  '<p>'.esc_html($s4_subtitle_value).'</p>';
                     } else {
-                        echo `<p>GOT A PROBLEM ?</p>`;
+                        echo "<p>GOT A PROBLEM ?</p>";
                         }
                 ?>
                 <?php
@@ -223,7 +223,7 @@
                     if ($s4_title_value) {
                         echo  '<h3>'.esc_html($s4_title_value).'</h3>';
                     } else {
-                        echo `<h3>No Probs, here's how we help</h3>`;
+                        echo "<h3>No Probs, here's how we help</h3>";
                         }
                 ?>
                     
@@ -235,7 +235,7 @@
                         if ($s4_description_value) {
                             echo  '<p>'.esc_html($s4_description_value).'</p>';
                         } else {
-                            echo ` <p>Our expert team of Perth plumbers can diagnose and repair any residential or commercial plumbing problem you may have. Whether it's water or gas, you're safe with us.</p>`;
+                            echo " <p>Our expert team of Perth plumbers can diagnose and repair any residential or commercial plumbing problem you may have. Whether it's water or gas, you're safe with us.</p>";
                             }
                     ?>
                    
@@ -259,7 +259,7 @@
                     if ($s5_subtitle_value) {
                         echo  '<p>'.esc_html($s5_subtitle_value).'</p>';
                     } else {
-                        echo `<p>YOUR PLUMBING PROBLEM NOT LISTED HERE?</p>`;
+                        echo "<p>YOUR PLUMBING PROBLEM NOT LISTED HERE?</p>";
                         }
                 ?>
                 <?php
@@ -268,7 +268,7 @@
                     if ($s5_title_value) {
                         echo  '<h3>'.esc_html($s5_title_value).'</h3>';
                     } else {
-                        echo `<h3>No Probs. We'll fix it</h3>`;
+                        echo "<h3>No Probs. We'll fix it</h3>";
                         }
                 ?>
                 
@@ -281,7 +281,7 @@
                     if ($s5_description_value) {
                         echo  '<p>'.esc_html($s5_description_value).'</p>';
                     } else {
-                        echo `<p>Stumped by your plumbing problem? Don't let it escalate. Call on our local Perth plumbers who you can trust will do a great job. Get a quote today and say goodbye to your plumbing woes.</p>`;
+                        echo "<p>Stumped by your plumbing problem? Don't let it escalate. Call on our local Perth plumbers who you can trust will do a great job. Get a quote today and say goodbye to your plumbing woes.</p>";
                         }
                 ?>
                 
