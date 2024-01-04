@@ -1,6 +1,6 @@
 ## WordPress Theme Company Profile
 \
-How to use it:\
+**How to use it:**\
 Activate the theme:\
 <img src="https://cdn.discordapp.com/attachments/1133382170321371238/1192440063401922612/scrnli_4_1_2024_19-49-08.png?ex=65a91559&is=6596a059&hm=ac4456a4eca8145f89bcea43d9e1f59ea489d4b7e659e9f8edb961586effe447&" alt="Alt text" title="Optional title">\
 \
